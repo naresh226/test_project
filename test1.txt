@@ -1,1 +1,1 @@
-6 is a Number.
+7 is a Number.
