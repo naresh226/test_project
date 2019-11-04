@@ -1,1 +1,1 @@
-5 is a Number.
+6 is a Number.
